@@ -55,7 +55,7 @@ To run the Python application:
 ## Environment Configuration
 
 The application expects the ScyllaDB cluster IP to be configured in the script.
-Replace `'localhost'` in the `Cluster` configuration with your ScyllaDB cluster IP.
+Replace `'0.0.0.0'` in the `Cluster` configuration with your ScyllaDB cluster IP.
 
 ## Contributing
 
